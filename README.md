@@ -143,7 +143,7 @@ vcClass 是一款专为 Windows 10 系统设计的希沃白板快捷操作工具
 
 - **程序名称**：vcClass (希沃快捷操作程序)
 - **版本号**：beta 0.1
-- **开发者**：missdeep (daijunning 2024)
+- **开发者**：missdeep
 - **版权信息**：Copyright @ 2025 Vercore.icu 版权所有
 
 ## 技术支持
