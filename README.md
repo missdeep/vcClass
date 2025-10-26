@@ -1,6 +1,8 @@
 # vcClass
 基于python所编写的编辑希沃白板一体机操作程序
+
 <img width="384" height="384" alt="logo" src="https://github.com/user-attachments/assets/4126dcb2-c6ef-4231-8d8d-314f0d149b32" />
+
 # 希沃快捷操作程序 (vcClass) - 使用说明
 
 ## 程序简介
